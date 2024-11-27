@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SIREESHA YERUVA</h1>
 <h3 align="center">A passionate jr.DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Azure administration and exploring AWS and DevOps tools to enhance my skills.**
+- 🌱 Currently Exploring **Azure administration and exploring AWS and DevOps tools to enhance my skills.**
 
 - 📝 I regularly write articles on [https://medium.com/@sireeshayeruva](https://medium.com/@sireeshayeruva)
 
-- 📫 How to reach me **sireereddy2403@gmail.com**
+- 📫 Get in touch **sireereddy2403@gmail.com**
 
-- ⚡ Fun fact **I'm currently learning Azure administration, exploring AWS and DevOps, and enjoying the journey with daily writing challenges!**
+- 🌟 Did You Know? **I'm currently learning Azure administration, exploring AWS and DevOps, and enjoying the journey with daily writing challenges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
