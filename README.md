@@ -37,4 +37,4 @@ I love sharing knowledge through blogs and strive for continuous growth in both 
 ### 📊GitHub Stats
 ![sireereddy](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-<h6><strong>"Code hard, push often, and never stop learning! 💻 Let’s build something amazing, one commit at a time! 🚀"</strong></h6>
+<h4><strong>"Code hard, push often, and never stop learning! 💻 Let’s build something amazing, one commit at a time! 🚀"</strong></h4>
